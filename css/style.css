@@ -59,8 +59,7 @@ html {
 	overflow: hidden;
 	overflow-y: scroll;
 	margin-top: 48px;
-	margin-bottom: 200px;
-	background-color: rgb(231, 237, 241);
+	padding-bottom: 1080px;
 	height:100%;
 }
 
