@@ -113,6 +113,7 @@ section {
     	align-items: stretch;
 	margin: 24px;
 	word-break: break-all;
+	z-index:1
 }
 
 .container li{
