@@ -12,22 +12,22 @@ html {
 }
 
 main {
-  width: 100vw;
-  height: 100vh;
+  	width: 100vw;
+  	height: 100vh;
 }
 
 section {
-  width: 100%;
-  height: 100%;
+  	width: 100%;
+  	height: 100%;
 }
 .wrap{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    align-items:stretch;
-    margin: auto;
-    width: 100%;
-    height: 100%;
+    	display: flex;
+    	flex-direction: column;
+    	justify-content: space-between;
+    	align-items:stretch;
+    	margin: auto;
+    	width: 100%;
+    	height: 100%;
 	box-sizing: border-box;
 	margin: auto;
 	position: relative;
@@ -65,11 +65,9 @@ section {
 
 .container{
 	display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: stretch;
-	overflow: hidden;
-	overflow-y: scroll;
+    	flex-direction: column;
+   	justify-content: flex-start;
+    	align-items: stretch;
 	margin-top: 48px;
 	padding-bottom: 1080px;
 	height:100%;
@@ -78,8 +76,8 @@ section {
 .container_items{
 	display: flex;
 	flex-direction: column;
-    justify-content: flex-start;
-    align-items: stretch;
+    	justify-content: flex-start;
+   	 align-items: stretch;
 	box-shadow: 2px 2px 4px #cccccc;
 	background: #ffffff;
 	margin: 48px;
@@ -109,8 +107,8 @@ section {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-    justify-content: center;
-    align-items: stretch;
+    	justify-content: center;
+    	align-items: stretch;
 	margin: 24px;
 	word-break: break-all;
 }
@@ -122,8 +120,8 @@ section {
 	max-height: 300px;
 	display: flex;
 	flex-direction: column;
-    justify-content: flex-start;
-    align-items: stretch;
+   	justify-content: flex-start;
+    	align-items: stretch;
 	box-shadow: 2px 2px 4px #cccccc;
 	background: #ffffff;
 	margin: 8px;
@@ -161,8 +159,8 @@ section {
 	letter-spacing: 1.5;
 	line-height: 1.5;
 	width:100%;
-    height: 100%;
-    object-fit:cover;
+    	height: 100%;
+    	object-fit:cover;
 	
 }
 
@@ -186,7 +184,7 @@ section {
 
 .footer{
 	display: flex;
-    justify-content: center;
+    	justify-content: center;
 	align-items: stretch;
 	box-sizing: border-box;
 	background-color: #3870be;
