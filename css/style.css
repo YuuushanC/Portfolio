@@ -32,6 +32,7 @@ section {
 	margin: auto;
 	position: relative;
 	background-color: rgb(231, 237, 241);
+	z-index:1
 }
 
 .header{
@@ -48,6 +49,7 @@ section {
 	left: 0px;
 	width: 100%;
 	background: #ffffff;
+	z-index:3
 }
 
 .header_items{
@@ -191,6 +193,7 @@ section {
 	position: fixed;
 	width:100%;
 	bottom: 0px;
+	z-index:2
 }
 
 .footer_items{
